@@ -1,0 +1,14 @@
+/* Default styles */
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Styles for screens smaller than 600px wide */
+@media (max-width: 600px) {
+  footer {
+    font-size: 0.8rem;
+  }
+}
